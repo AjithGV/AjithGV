@@ -26,7 +26,7 @@
 <br />
 
 ---
-<img align="left" alt="ajithGV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajithGV&show_icons=true&hide_border=true" />
+<img align="left" alt="ajithGV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AjithGV&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/ajith-naik-8a74b6194/
 [instagram]: https://www.instagram.com
