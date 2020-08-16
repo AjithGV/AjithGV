@@ -2,15 +2,14 @@
 
 ## I'm a Student and a Developer!
 
-- 👨🏽‍💻 I'm currently working on some of [React] projects!
+- 👨🏽‍💻 I'm currently working on some of React projects!
 - 🌱 I'm currently Learning everything
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - ⚡️ Fun fact: I love drawing!
 
 ### Connect with me:
-
 [<img align="left" alt="Ajith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ajith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ajith | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -31,4 +30,5 @@
 
 [linkedin]: https://www.linkedin.com/in/ajith-naik-8a74b6194/
 [instagram]: https://www.instagram.com/_ajithgv/
+[twitter]: https://twitter.com/AjithNa17458404/
 
